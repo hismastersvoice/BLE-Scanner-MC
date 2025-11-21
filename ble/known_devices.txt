@@ -1,6 +1,1 @@
-7C:2F:80:8F:07:DA,Dieter,1
-7C:2F:80:92:12:47,Gigaset G-tag,1
-7C:2F:80:92:12:4A,Gigaset G-tag,1
-7C:2F:80:96:51:FC,Gigaset G-tag,1
-7C:2F:80:EA:F4:FE,Gigaset G-tag,1
-58:9E:C6:30:3C:72,Gigaset keeper,1
+

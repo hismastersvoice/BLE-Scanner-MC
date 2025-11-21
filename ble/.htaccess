@@ -1,0 +1,17 @@
+# 1. Definiere die Art der Authentifizierung
+AuthType Basic
+AuthName "BLE Manager Admin-Bereich"
+
+# 2. Zeige auf die Passwort-Datei, die wir in Schritt 2 erstellt haben
+AuthUserFile /var/www/html/ble/.htpasswd
+
+# 3. Verlangt einen gültigen Benutzer aus dieser Datei
+Require valid-user
+
+# 4. (WICHTIG) Definiere die Ausnahme für deine API
+<Files "action.php">
+    Require all granted
+</Files>
+<Files "api.php">
+    Require all granted
+</Files>

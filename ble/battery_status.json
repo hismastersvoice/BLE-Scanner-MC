@@ -1,0 +1,42 @@
+{
+    "7C:2F:80:8F:07:DA": {
+        "timestamp": 1763431253,
+        "battery_percent": 56,
+        "status": "offline"
+    },
+    "7C:2F:80:92:12:47": {
+        "timestamp": 1763431293,
+        "battery_percent": 94,
+        "status": "online"
+    },
+    "7C:2F:80:92:12:4A": {
+        "timestamp": 1763431338,
+        "battery_percent": 100,
+        "status": "online"
+    },
+    "7C:2F:80:96:51:FC": {
+        "timestamp": 1763431381,
+        "battery_percent": 94,
+        "status": "online"
+    },
+    "7C:2F:80:EA:F4:FE": {
+        "timestamp": 1763431426,
+        "battery_percent": 75,
+        "status": "online"
+    },
+    "58:9E:C6:30:3C:72": {
+        "timestamp": 1763431465,
+        "battery_percent": 94,
+        "status": "online"
+    },
+    "FF:FF:11:97:D7:FA": {
+        "timestamp": 1763292557,
+        "battery_percent": 50,
+        "status": "online"
+    },
+    "FF:FF:11:AC:AD:3F": {
+        "timestamp": 1763292206,
+        "battery_percent": 50,
+        "status": "online"
+    }
+}

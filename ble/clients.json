@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Scanner-West",
+        "url": "http:\/\/192.168.136.13\/ble",
+        "api_key": "fe6ccc76d55180f8c12d7aa63dc5fb357128d63d7c56ac0eab2623081cd62004",
+        "ip_whitelist": "",
+        "status": "online",
+        "last_sync": 1763302371,
+        "created": 1763285855
+    }
+]

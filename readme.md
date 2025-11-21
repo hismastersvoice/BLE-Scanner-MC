@@ -1,4 +1,4 @@
-# 🚀 **BLE Presence Daemon (v2.0) – Die Umfassende Anleitung**
+# 🚀 **BLE Presence Daemon (v2.0)
 
 **BLE Presence** ist die ideale Lösung, um die Anwesenheit von Bluetooth Low Energy (BLE)-Geräten in Ihrem Smart Home zu erfassen und deren Batteriestatus zu überwachen. Dieses Tool kombiniert einen performanten Python-Scan-Dienst mit einem komfortablen PHP-Webinterface und unterstützt nahtlos die Anbindung über **MQTT** und **UDP**.
 
